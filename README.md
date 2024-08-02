@@ -10,4 +10,5 @@ The project uses following datasets focusing on various variables to explore the
 
 # Installation
 Install the necessary libraries using pip:
+```bash
 pip install pandas seaborn
